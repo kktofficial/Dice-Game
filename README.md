@@ -1,2 +1,2 @@
-Your site is live at: 
-https://kktofficial.github.io/Dice-Game/
+
+https://kktofficial.github.io/Dice-Game/ #link
